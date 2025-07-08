@@ -12,20 +12,6 @@ const products = [
   { name: 'iPad Air', price: 599.99 },
   { name: 'Dell XPS 13', price: 999.99 },
   { name: 'Sony WH-1000XM5', price: 349.99 },
-  { name: 'Nintendo Switch', price: 299.99 },
-  { name: 'Apple Watch Series 9', price: 399.99 },
-  { name: 'Lenovo ThinkPad X1', price: 1299.99 },
-  { name: 'AirPods Pro', price: 249.99 },
-  { name: 'Samsung 4K Monitor', price: 399.99 },
-  { name: 'Logitech MX Master 3', price: 99.99 },
-  { name: 'Mechanical Keyboard', price: 149.99 },
-  { name: 'Webcam HD 1080p', price: 79.99 },
-  { name: 'External SSD 1TB', price: 119.99 },
-  { name: 'Gaming Chair', price: 299.99 },
-  { name: 'Standing Desk', price: 499.99 },
-  { name: 'Wireless Charger', price: 39.99 },
-  { name: 'Bluetooth Speaker', price: 89.99 },
-  { name: 'USB-C Hub', price: 59.99 },
 ];
 
 // Database configuration
